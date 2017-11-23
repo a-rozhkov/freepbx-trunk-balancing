@@ -1,3 +1,8 @@
+Forked from https://github.com/POSSA/freepbx-trunk-balancing
+Modified agi-bin files
+
+Readme for parental project:
+
 The FreePBX Trunk Balancing Module
 ==================================
 
